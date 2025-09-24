@@ -9,3 +9,4 @@
 - This Repo Is Solely Used For Distributing Installer And Binaries Of The Application
 
 ## Download From [Here](https://github.com/SahalMoh/AtmosfarReleases/releases/latest)
+## See The Changelogs [Here](./CHANGELOG.md)
