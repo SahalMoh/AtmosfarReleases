@@ -1,6 +1,8 @@
 <div align="center"><img src="./assets/icon.png" height="64" width="64"></div>
 
-# Atmosfär - The Weather at Your Fingertips
+# Atmosfär - The Weather at Your Fingertips\
+
+<div align="center"><img src="./assets/AppScreenshot.png"></div>
 
 ### Atmosfär Is A Weather App Made Using HTML, CSS & JS. Made Into An Application Using ElectronJS.
 
