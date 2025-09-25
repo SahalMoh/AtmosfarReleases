@@ -1,12 +1,34 @@
-<div align="center"><img src="./assets/icon.png" height="64" width="64"></div>
+<div align="center">
+  <img src="./assets/icon.png" height="80" width="80" alt="Atmosfär Logo">
+  
+  # Atmosfär
+  
+  **The Weather at Your Fingertips** 🌤️
+  
+  <img src="./assets/AppScreenshot.png" alt="Atmosfär Screenshot" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
-# Atmosfär - The Weather at Your Fingertips
+## About
 
-<div align="center"><img src="./assets/AppScreenshot.png"></div>
+Atmosfär is a sleek weather application built with modern web technologies (HTML, CSS & JavaScript) and powered by ElectronJS for a native desktop experience.
 
-### Atmosfär Is A Weather App Made Using HTML, CSS & JS. Made Into An Application Using ElectronJS.
+> **Note:** Currently available for Windows only.
 
-- This Repo Is Solely Used For Distributing Installer And Binaries Of The Application
+## Features
 
-## Download From [Here](https://github.com/SahalMoh/AtmosfarReleases/releases/latest)
-## See The Changelogs [Here](./CHANGELOG.md)
+- 🌡️ Real-time weather information
+- 🎨 Clean and intuitive interface
+- ⚡ Fast and lightweight
+- 🖥️ Native desktop experience
+
+## Download
+
+📥 **[Download Latest Release](https://github.com/SahalMoh/AtmosfarReleases/releases/latest)**
+
+📋 **[View Changelog](./CHANGELOG.md)**
+
+---
+
+<div align="center">
+  <sub>This repository is used for distributing installer and binaries of the Atmosfär application.</sub>
+</div>
