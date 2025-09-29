@@ -7,6 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.2.1] - 2025-09-29
+
+### 🕐 Time Display Fixes
+- Fixed unwanted date showing in 24-hour mode
+- Both 12-hour (1:00 PM) and 24-hour (13:00) modes now show only time
+- Consistent time format across web and desktop versions
+
+### 🎨 Dark Mode Improvements
+- Enhanced dark mode color scheme throughout the app
+- Fixed jarring white search button hover in dark mode
+- Better search input styling with proper accent colors
+- Improved visual consistency across all dark mode elements
+
+### 🎯 User Experience
+- Improved button styling and link appearance
+- Cleaner, more organized interface
+- Enhanced visual hierarchy
+
+---
+
 ## [4.2.0] - 2025-09-29
 
 ### 📸 Before & After
