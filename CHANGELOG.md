@@ -7,6 +7,43 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.2.0] - 2025-09-29
+
+### 📸 Before & After
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Before (v4.0.x)</strong></td>
+      <td align="center"><strong>After (v4.2.0)</strong></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/AppScreenshotOld.png" alt="Old Design" width="400"></td>
+      <td><img src="./assets/AppScreenshot.png" alt="New Design" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+### ✨ Added
+- Modern glassmorphism design throughout the app
+- New weather data: Windchill, Heat Index, and Dew Point
+- Web installer and offline installer options
+- Enhanced loading screen with improved animation
+
+### 🔄 Changed
+- Redesigned weather display with cleaner, compact layout
+- Search now only triggers on button click or Enter key
+- Removed automatic search while typing for better performance
+- Polished weather cards and hourly forecast styling
+
+### 🐛 Fixed
+- Loading screen positioning issues
+- Weather display layout problems
+- Improved app stability and reliability
+- Better responsiveness across devices
+
+---
+
 ## [4.0.1] - 2025-09-25
 
 ### ✨ Added
