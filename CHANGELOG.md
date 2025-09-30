@@ -9,8 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [4.2.2] - 2025-09-30
 
+# 🐧 LINUX VERSION NOW AVAILABLE! 🎉
+
+**Atmosfär is now cross-platform! Download for both Windows and Linux.**
+
 ### 🎨 Visual Improvements
-- Enhanced download button with Windows and Linux (Coming Soon) platform icons
+- Enhanced download button with Windows and Linux platform icons
 - Wider weather boxes (30% increase) for better text readability
 - High-quality 128x128 weather icons from WeatherAPI CDN
 - Improved mobile responsiveness with larger weather boxes

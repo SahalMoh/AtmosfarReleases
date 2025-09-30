@@ -12,7 +12,7 @@
 
 Atmosfär is a sleek weather application built with modern web technologies (HTML, CSS & JavaScript) and powered by ElectronJS for a native desktop experience.
 
-> **Note:** Currently available for Windows only.
+🖥️ **Available for Windows and Linux**
 
 ## Features
 
