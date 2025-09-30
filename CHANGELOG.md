@@ -7,6 +7,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.2.2] - 2025-09-30
+
+### 🎨 Visual Improvements
+- Enhanced download button with Windows and Linux (Coming Soon) platform icons
+- Wider weather boxes (30% increase) for better text readability
+- High-quality 128x128 weather icons from WeatherAPI CDN
+- Improved mobile responsiveness with larger weather boxes
+
+### 🌤️ Weather Features
+- Hourly forecast now shows next 24 hours from current time (not past hours)
+- Sharper, always up-to-date weather icons
+- Better readability for long weather conditions like "PATCHY RAIN NEARBY"
+
+### 📱 Cross-Platform Support
+- Clear platform support indication with Windows and Linux icons
+- Better mobile experience with improved sizing
+- Professional hover effects and spacing
+
+### ⚡ Performance
+- Faster icon loading via global CDN
+- More relevant forecast data for better weather planning
+- Enhanced design consistency throughout the app
+
+---
+
 ## [4.2.1] - 2025-09-29
 
 ### 🕐 Time Display Fixes
