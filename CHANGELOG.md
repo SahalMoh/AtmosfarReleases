@@ -7,6 +7,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.3.1] - 2025-10-10
+
+### ✨ Visual Polish
+- Settings, AQI, and changelog modals now feature smooth animations
+- Added icons beside weather details for better visual clarity
+- Enhanced modal transitions and effects
+
+### 🔧 Improvements
+- Check for Updates button in tray menu now opens settings page directly
+- Update checking now displays inline instead of separate window
+- More streamlined update experience
+
+### 🎨 UI Enhancements
+- Improved settings page layout and accessibility
+- Better visual feedback throughout the app
+- *Version number is now more... interactive* 🤔
+
+---
+
 ## [4.3.0] - 2025-10-09
 
 ### 🌍 Multi-Language Support
