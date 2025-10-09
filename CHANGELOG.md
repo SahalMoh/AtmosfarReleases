@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.3.0] - 2025-10-09
+
+### 🌍 Multi-Language Support
+- Added support for multiple languages
+- Users can now view weather information in their preferred language
+- Seamless language switching from settings
+
+### 🎯 Improved User Experience
+- Changelog now opens in a modal instead of web browser
+- Air Quality Index information opens in a modal instead of web browser
+- Better in-app experience without leaving the application
+
+---
+
 ## [4.2.3] - 2025-10-05
 
 ### 🔧 Backend Improvements
@@ -81,8 +95,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
       <td align="center"><strong>After (v4.2.0)</strong></td>
     </tr>
     <tr>
-      <td><img src="./assets/AppScreenshotOld.png" alt="Old Design" width="400"></td>
-      <td><img src="./assets/AppScreenshot.png" alt="New Design" width="400"></td>
+      <td><img src="https://raw.githubusercontent.com/SahalMoh/AtmosfarReleases/refs/heads/main/assets/AppScreenshotOld.png" alt="Old Design" width="400"></td>
+      <td><img src="https://raw.githubusercontent.com/SahalMoh/AtmosfarReleases/refs/heads/main/assets/AppScreenshot.png" alt="New Design" width="400"></td>
     </tr>
   </table>
 </div>
