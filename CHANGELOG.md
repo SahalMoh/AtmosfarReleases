@@ -7,6 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.3.2] - 2025-10-10
+
+### 🚀 New Feature
+- Added autostart on system boot option
+- App can now launch automatically when your PC starts
+- Starts minimized in the background for seamless experience
+- Easily toggle autostart on/off in settings
+
+### ⚙️ Convenience
+- Set it once and always have weather ready when you need it
+- No more manually launching the app after restart
+- Minimal system impact with background startup
+
+### 🔧 Under The Hood
+- Major code refactoring for better performance and reliability
+- Improved error handling and app stability
+- Enhanced caching and resource management
+- Better API communication with automatic retry logic
+- Overall code quality improvements for smoother experience
+
+---
+
 ## [4.3.1] - 2025-10-10
 
 ### ✨ Visual Polish
