@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.3.3] - 2025-10-13
+
+### 🐧 Cross-platform fixes & packaging
+- Fixed AppImage distribution not launching on some systems (Linux packaging issue)
+- Fixed broken/missing icons across platforms
+- Added official support and availability on Flatpak and Snap stores
+
+### ℹ️ Notes
+- This release targets Linux packaging and distribution. Windows installers remain unchanged, but Windows users may still see the version listed in-app.
+
 ## [4.3.2] - 2025-10-10
 
 ### 🚀 New Feature
