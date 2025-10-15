@@ -27,8 +27,6 @@ Atmosfär is a sleek weather application built with modern web technologies (HTM
 
 📋 **[View Changelog](./CHANGELOG.md)**
 
-[![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/atmosfar)
-
 ---
 
 <div align="center">

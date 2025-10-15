@@ -7,15 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [4.3.3] - 2025-10-13
+## [4.3.3] - 2025-10-15
 
-### 🐧 Cross-platform fixes & packaging
-- Fixed AppImage distribution not launching on some systems (Linux packaging issue)
-- Fixed broken/missing icons across platforms
-- Added official support and availability on Flatpak and Snap stores
+### 🐧 Linux Fixes
+- Fixed missing/broken icons on Linux systems
+- Fixed AppImage not launching properly on some distributions
 
-### ℹ️ Notes
-- This release targets Linux packaging and distribution. Windows installers remain unchanged, but Windows users may still see the version listed in-app.
+### 🐛 Bug Fixes
+- Fixed location/IP access issues preventing weather data from loading correctly
+
+### ✨ Added
+- Added credits section to acknowledge contributors and libraries
+
+---
 
 ## [4.3.2] - 2025-10-10
 
