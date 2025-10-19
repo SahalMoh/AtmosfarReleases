@@ -16,8 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   <img src="https://raw.githubusercontent.com/SahalMoh/AtmosfarReleases/refs/heads/main/assets/WidgetShowcase.png" alt="Desktop Widget Showcase" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-### 📦 Distribution
-- Added Flatpak support - Install using: `flatpak install sahal.atmosfar.desktop`
+<!--### 📦 Distribution
+- Added Flatpak support - Install using: `flatpak install sahal.atmosfar.desktop`-->
 
 ### ✨ UI Improvements
 - Settings page revamped with improved layout and visual design
