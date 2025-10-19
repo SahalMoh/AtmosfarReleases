@@ -27,9 +27,9 @@ Atmosfär is a sleek weather application built with modern web technologies (HTM
 
 📋 **[View Changelog](./CHANGELOG.md)**
 
-### Linux Package Managers
+<!--### Linux Package Managers
 
-<!--**Flatpak:**
+**Flatpak:**
 ```bash
 flatpak install sahal.atmosfar.desktop
 ```

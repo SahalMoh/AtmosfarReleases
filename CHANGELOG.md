@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added desktop widget that can be placed on your desktop for quick weather access
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SahalMoh/AtmosfarReleases/refs/heads/main/assets/WidgetShowcase.png" alt="Desktop Widget Showcase" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/SahalMoh/AtmosfarReleases/refs/heads/main/assets/WidgetShowcase.png" alt="Desktop Widget Showcase" style="width:320px; max-width:90%; border-radius:0px; box-shadow: 0 12px 30px rgba(0,0,0,0.35), 0 0 24px rgba(0,150,255,0.12); filter: drop-shadow(0 8px 24px rgba(0,0,0,0.25));">
 </div>
 
 <!--### 📦 Distribution
