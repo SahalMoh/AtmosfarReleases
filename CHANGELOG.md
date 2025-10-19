@@ -7,31 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [4.4.0] - 2025-10-19
-
-### 🎨 New Feature
-- Added desktop widget that can be placed on your desktop for quick weather access
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SahalMoh/AtmosfarReleases/refs/heads/main/assets/WidgetShowcase.png" alt="Desktop Widget Showcase" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
-
-### 📦 Distribution
-- Added Flatpak support - Install using: `flatpak install sahal.atmosfar.desktop`
-
-### ✨ UI Improvements
-- Settings page revamped with improved layout and visual design
-- Enhanced overall settings experience for better usability
-
-### 🐛 Bug Fixes
-- Fixed issue where location/IP-based weather data was showing inaccurate information
-
-### 🔧 Under The Hood
-- Backend code improvements and optimizations
-- Enhanced code structure for better maintainability
-
----
-
 ## [4.3.3] - 2025-10-15
 
 ### 🐧 Linux Fixes
